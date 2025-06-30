@@ -1,0 +1,13 @@
+Inventory Data File
+#filename "input_data.txt"
+#filename_path "C:\"
+
+Folder Locations
+#billed_path "C:\Billed"
+#quoted_path "C:\Quoted"
+
+Invoice Starting Number
+#invoice_number "1000"
+
+Quote Starting Number
+#quote_number "1000"
